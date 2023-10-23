@@ -1,4 +1,4 @@
-# Résumer du brief numéro 2 de Simplon
+# Résumé du brief numéro 2 de Simplon
 
 ## Présentation de l'analyse visuelle d'un jeu de données.
 
